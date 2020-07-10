@@ -4,9 +4,9 @@ I'm Jordan- a student currently enrolled at Concordia University studying Full S
 
 ### My Values
 <ul>
-👫 I really enjoy working with others
-🙏 I believe trusting your peers is really important
-🍎 Constantly willing to try and learn new things
+  <li>👫 I really enjoy working with others</li>
+  <li>🙏 I believe trusting your peers is really important</li>
+  <li>🍎 Constantly willing to try and learn new things</li>
   </ul>
 
 ### How I Work
