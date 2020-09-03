@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Jordan- a student currently enrolled at Concordia University studying Full Stack Web Development. Before starting my program, I was a technical specialist at Apple and would occasionally volunteer through the company and other organizations. I'm a pretty big geek, avid video game player and aspiring developer. 👾
+I'm Jordan- a recent graduate in Full-Stack Development from Concordia Bootcamps in association with Decode MTL. Before starting my program, I was a technical specialist at Apple and would occasionally volunteer through the company and other organizations. I'm a pretty big geek, avid video game player and aspiring developer. 👾
 
 ### My Values
 <ul>
